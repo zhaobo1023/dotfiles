@@ -9,8 +9,8 @@ Bundle 'scrooloose/nerdtree.git'
 Bundle 'tpope/vim-surround.git'
 Bundle 'tpope/vim-commentary.git'
 Bundle 'scrooloose/nerdcommenter.git'
-
-
+Bundle 'plasticboy/vim-markdown.git'
+Bundle 'godlygeek/tabular.git'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
